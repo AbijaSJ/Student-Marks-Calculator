@@ -1,2 +1,6 @@
-# Student-Marks-Calculator
-A simple Python program to calculate student pass or fail based on marks.
+# Student Marks Calculator
+
+A simple Python project to check student pass or fail.
+
+## Language
+Python
